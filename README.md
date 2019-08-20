@@ -1,6 +1,6 @@
-# gatsby-plugin-metricol
+# gatsby-plugin-metricool
 
-Easily add Metricool to your Gatsby site. 
+Easily add Metricool to your Gatsby site.
 
 ## Install
 `yarn add gatsby-plugin-metricool`

@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-metricool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby Plugin to add Metricool id to your site.",
   "main": "index.js",
   "scripts": {

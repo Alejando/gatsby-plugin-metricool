@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-plugin-metricool",
+  "version": "1.0.0",
+  "description": "Gatsby Plugin to add Metricool id to your site.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir .",
+    "watch": "babel -w src --out-dir ."
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "metricool"
+  ],
+  "author": "Alejandro Prado Lopez <isc.alejandro.prado@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5"
+  },
+  "homepage": "https://github.com/alejando/gatsby-plugin-metricool",
+  "bugs": "https://github.com/alejando/gatsby-plugin-metricool/issues",
+  "repository": {
+    "url": "https://github.com/alejando/gatsby-plugin-metricool",
+    "type": "git"
+  },
+  "dependencies": {
+    "babel-preset-gatsby-package": "^0.2.2",
+    "core-js": "^2.6.9"
+  }
+}
